@@ -1,4 +1,4 @@
-# roomflow2-dist
+# roomflow-dist
 
 Canal de **distribution et de mises à jour automatiques** de la coque native **RoomFlow 2** (installateurs [Velopack](https://velopack.io)).
 
