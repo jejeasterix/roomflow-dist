@@ -7,6 +7,10 @@ Canal de **distribution et de mises à jour automatiques** de l'application Wind
 > les installateurs publiés (GitHub Releases), pour que l'application puisse télécharger ses mises
 > à jour sans authentification.
 
+## Nouveautés
+
+Ce que change chaque version : dossier **[mises-a-jour/](mises-a-jour/)**, la plus récente en tête.
+
 ## Installation / mise à jour
 
 - **Nouvelle installation** : télécharger `RoomFlow-win-Setup.exe` depuis la
