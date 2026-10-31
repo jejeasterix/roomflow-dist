@@ -9,6 +9,7 @@ redémarrer quand elle est prête. Les installateurs sont dans les
 
 | Version | Date | En bref |
 |---|---|---|
+| [v1.0.53](v1.0.53.md) | 31/10/2026 | Studio : contenu et styles du cartouche et de la légende modifiables dans l'inspecteur (polices, couleurs, cadre), repris dans le PDF |
 | [v1.0.52](v1.0.52.md) | 25/10/2026 | Schéma modifié ailleurs : Studio en pause pendant la décision, « Décider plus tard » rend la main, conflit sur un autre schéma signalé dans la barre de titre |
 | [v1.0.51](v1.0.51.md) | 25/10/2026 | Studio : câbler depuis une entrée, deux clics et câble virtuel alignés sur le glisser, port plein annoncé ; rôle PoE retiré d'un port qui n'est plus PoE |
 | [v1.0.50](v1.0.50.md) | 24/10/2026 | Studio : plusieurs câbles par port, styles des tags, câblage AUDIO PHOENIX ↔ HP ; Communauté réservée à Cloud ; types de ports Officiels (Mini BNC) pris en compte partout ; carnet de câblage complet |
