@@ -9,6 +9,7 @@ redémarrer quand elle est prête. Les installateurs sont dans les
 
 | Version | Date | En bref |
 |---|---|---|
+| [v1.0.55](v1.0.55.md) | 01/11/2026 | Catalogue : la mise à jour légère devient la règle, une relecture complète reste faite si besoin |
 | [v1.0.54](v1.0.54.md) | 01/11/2026 | Catalogue : mise à jour plus légère, seules les fiches changées sont relues quand c'est sûr |
 | [v1.0.53](v1.0.53.md) | 31/10/2026 | Studio : contenu et styles du cartouche et de la légende modifiables dans l'inspecteur (polices, couleurs, cadre), repris dans le PDF |
 | [v1.0.52](v1.0.52.md) | 25/10/2026 | Schéma modifié ailleurs : Studio en pause pendant la décision, « Décider plus tard » rend la main, conflit sur un autre schéma signalé dans la barre de titre |
