@@ -9,6 +9,7 @@ redémarrer quand elle est prête. Les installateurs sont dans les
 
 | Version | Date | En bref |
 |---|---|---|
+| [v1.0.59](v1.0.59.md) | 04/11/2026 | 55 pictogrammes pour les plans de salle, rangés par catégorie |
 | [v1.0.58](v1.0.58.md) | 03/11/2026 | Un type d'équipement « Lumière » pour l'éclairage |
 | [v1.0.57](v1.0.57.md) | 03/11/2026 | Votre version de RoomFlow est connue de votre compte ; cartouche corrigé |
 | [v1.0.56](v1.0.56.md) | 02/11/2026 | Catalogue : l'auteur de chaque nouvelle fiche est enregistré |
