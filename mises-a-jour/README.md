@@ -9,6 +9,7 @@ redémarrer quand elle est prête. Les installateurs sont dans les
 
 | Version | Date | En bref |
 |---|---|---|
+| [v1.0.63](v1.0.63.md) | 10/11/2026 | Studio : note des fiches communautaires, zoom préétabli et onglet Objets ; un objet perdu ne blanchit plus le PDF |
 | [v1.0.61](v1.0.61.md) | 09/11/2026 | Un seul nom : RoomFlow, sans le « 2 », dans l'application et ses exports |
 | [v1.0.60](v1.0.60.md) | 04/11/2026 | Catalogue à jour plus discret : préparation hors ligne seulement si besoin, une synchro à l'ouverture |
 | [v1.0.59](v1.0.59.md) | 04/11/2026 | 55 pictogrammes pour les plans de salle, rangés par catégorie |
