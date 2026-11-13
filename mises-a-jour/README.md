@@ -9,6 +9,7 @@ redémarrer quand elle est prête. Les installateurs sont dans les
 
 | Version | Date | En bref |
 |---|---|---|
+| [v1.0.65](v1.0.65.md) | 13/11/2026 | Studio : image glissée, collée ou importée posée comme objet détouré ; image de référence par Affichage › Importer Image |
 | [v1.0.64](v1.0.64.md) | 12/11/2026 | Studio : une image glissée passe derrière les pictogrammes ; la rotation d'un pictogramme ramène la sélection |
 | [v1.0.63](v1.0.63.md) | 10/11/2026 | Studio : note des fiches communautaires, zoom préétabli et onglet Objets ; un objet perdu ne blanchit plus le PDF |
 | [v1.0.61](v1.0.61.md) | 09/11/2026 | Un seul nom : RoomFlow, sans le « 2 », dans l'application et ses exports |
