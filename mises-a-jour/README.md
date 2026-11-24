@@ -9,7 +9,8 @@ redémarrer quand elle est prête. Les installateurs sont dans les
 
 | Version | Date | En bref |
 |---|---|---|
-| [v1.0.69](v1.0.69.md) | 24/11/2026 | Présentation des 4 catalogues à la première ouverture de Studio ; entrée « Utilisateurs » dans le menu du compte pour le super admin |
+| [v1.0.70](v1.0.70.md) | 24/11/2026 | Nouvelle fenêtre de mise à jour, avec « Le saviez-vous ? » ; présentation des catalogues montrée une fois à tous |
+| [v1.0.69](v1.0.69.md) | 24/11/2026 | Présentation des 4 catalogues à la première ouverture de Studio |
 | [v1.0.68](v1.0.68.md) | 24/11/2026 | Détacher un fichier de sa salle Cloud ; droit « Éditer les synoptiques » (plan et fiche en lecture seule) ; « Voir ma formule » ; onglets de variante au clavier ; opacité des images et version retirée corrigées |
 | [v1.0.67](v1.0.67.md) | 14/11/2026 | Onglets de variante plus rapides ; « Importer Image » : nombre de fichiers écartés ; version retirée plus proposée ; flèches du clavier qui ne ferment plus le Studio |
 | [v1.0.66](v1.0.66.md) | 13/11/2026 | Fenêtre de mise à jour à l'ouverture ; dépôt de plusieurs images : nombre de fichiers écartés ; mise à jour déjà téléchargée proposée hors ligne |
